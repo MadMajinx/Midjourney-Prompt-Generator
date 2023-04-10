@@ -69,7 +69,7 @@ if misc_check:
 
 prompt_list = ','.join(prompt_list)
 
-openai.api_key = "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" # or use the method we defined earlier
+openai.api_key = "[OpemAI API Key]" # or use the method we defined earlier
 
 def generate_response(prompt):
     response = openai.Completion.create(
