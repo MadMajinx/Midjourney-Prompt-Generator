@@ -22,7 +22,7 @@ In this section i provide the functionality to the user to input a content idea 
 2. Attributes Section
 First of all I provide a slider to decide the randomness of the generated prompt using the hyperparameter i.e. Temperature. Higher the temperature value the higher the randomness and creativity and vice versa.
 
-Then there are multiple dropdown boxes to include various attributes for the image prompt such as style,color,lighting,material,quality etc.
+     Then there are multiple dropdown boxes to include various attributes for the image prompt such as style,color,lighting,material,quality etc.
 
 ![SlidersView](https://user-images.githubusercontent.com/121183743/230942218-3c75259b-c3c6-49ba-ae91-0fa3d56001be.png)
 
