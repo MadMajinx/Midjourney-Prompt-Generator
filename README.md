@@ -30,3 +30,18 @@ First of all I provide a slider to decide the randomness of the generated prompt
 There is also a section for the user if they want to tell ChatGPT to avoid any idea/content from the generated prompt
 
 ![ExclusionView](https://user-images.githubusercontent.com/121183743/230942354-7e251a03-063b-46cb-a1a7-9aaddf118e7a.png)
+
+4. Generator Button
+Finally after the user has chosen all the necessary details above, ChatGPT generates the prompt and adds the attributes to the prompt in the end.
+
+## Installation & Startup (Streamlit App)
+### Prerequisites
+To run the script, you need the following:
+1. Python3
+2. OpenAi library
+3. Streamlit
+
+### To run the script
+All you need to do is run the PromptGenerator script as follows:
+streamlit run PromptGenerator.py
+
